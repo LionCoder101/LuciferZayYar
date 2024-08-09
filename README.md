@@ -67,3 +67,11 @@
 <h3 align="left">🔥   My Stats : Running on caffeine and good vibes ☕😄</h3>
 
 ###
+
+<p align="center">Hello World, Welcome To my Profile!!!</p>
+
+###
+
+<p align="left">One thing you should understand is that in this vast world, you and I are just a small part of it, but your kindness in helping those in need makes you truly remarkable, my brother. You’re always better than me. I love you 403.</p>
+
+###
