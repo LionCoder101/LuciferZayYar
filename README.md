@@ -19,7 +19,8 @@
 </div>
 
 ###
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/LionHacker.png" alt="TryHackMe">
+###
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -70,12 +71,9 @@
 
 <p align="center">Hello World, Welcome To my Profile!!!</p>
 
+
 ###
 
 <p align="left">One thing you should understand is that in this vast world, you and I are just a small part of it, but your kindness in helping those in need makes you truly remarkable, my brother. You’re always better than me. I love you 403.</p>
 
-###
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/LionHacker.png" alt="TryHackMe">
-
-###
