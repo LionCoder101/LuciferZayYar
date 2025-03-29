@@ -1,83 +1,25 @@
-# LuciferZayYar
+<h1 align="center">Hi 👋, I'm Zay Yar Aung</h1>
+<h3 align="center">I am a skilled and inspired individual with a passion for the era and a sturdy commitment to customer support. With over 3 years of revel in IT enterprise and Cyber Security solutions, I have established a sturdy foundation of technical competencies and know-how, particularly in network operations, troubleshooting, and Cyber Security solutions. I have revel as a Cyber Security Analyst, and IT Support Specialist and have developed my information in providing superb carrier to clients and clients in Cyber Security. I am a completely gifted and tough-working character with a lot to offer. My passion for technology and dedication to serving customers, along side robust technical skills and amazing interpersonal talents make them treasured assets to any employer.</h3>
 
-<div align="center">
-  <img height="360" src="https://media1.tenor.com/m/60s1c6i6PpYAAAAC/wearelegend.gif"  />
-</div>
+- 🔭 I’m currently working on Code Byte Technology **Advance Threat Hunting**
 
-###
+- 🌱 I’m currently learning **Python, Bash and PowerShell**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/zayaraung/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://slack.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
-  </a>
-  <a href="https://tryhackme.com/r/p/LionHacker" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=Red&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-</div>
+- 👯 I’m looking to collaborate on **Defensive Cyber Security Engineering with India**
 
-###
+- 💬 Ask me about **Python and PowerShell**
 
-<h1 align="center">hey there 👋</h1>
+- 📄 Know about my experiences [Over 6 years experience in IT industry](Over 6 years experience in IT industry)
 
-###
+- ⚡ Fun fact **Coffee and sleepless**
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/lionhacker404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lionhacker404" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="left">I am a skilled and inspired individual with a passion for the era and a sturdy commitment to<br>customer support. With over 3 years of revel in IT enterprise and Cyber Security solutions, I<br>have established a sturdy foundation of technical competencies and know-how, particularly in<br>network operations, troubleshooting, and Cyber Security solutions. I have revel as a Cyber<br>Security Analyst, and IT Support Specialist and have developed my information in providing<br>superb carrier to clients and clients in Cyber Security.<br>I am a completely gifted and tough-working character with a lot to offer. My passion for<br>technology and dedication to serving customers, alongside robust technical skills and amazing<br>Interpersonal talents make them treasured assets for any employer.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats : Running on caffeine and good vibes ☕😄</h3>
-
-###
-
-<p align="center">Hello World, Welcome To my Profile!!!</p>
-
-
-###
-
-<p align="left">One thing you should understand is that in this vast world, you and I are just a small part of it, but your kindness in helping those in need makes you truly remarkable, my brother. You’re always better than me. I love you 403.</p>
-
-###
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/LionHacker.png" alt="TryHackMe">
-
-###
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/LionCoder101"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LionCoder101" /></a><a href="https://ko-fi.com/LionCoder101"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="LionCoder101" /></a></p><br><br>
