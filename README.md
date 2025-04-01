@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zay Yar Aung</h1>
-<h3 align="center">I am a skilled and inspired individual with a passion for the era and a sturdy commitment to customer support. With over 3 years of revel in IT enterprise and Cyber Security solutions, I have established a sturdy foundation of technical competencies and know-how, particularly in network operations, troubleshooting, and Cyber Security solutions. I have revel as a Cyber Security Analyst, and IT Support Specialist and have developed my information in providing superb carrier to clients and clients in Cyber Security. I am a completely gifted and tough-working character with a lot to offer. My passion for technology and dedication to serving customers, along side robust technical skills and amazing interpersonal talents make them treasured assets to any employer.</h3>
+<h3 align="center">I am a skilled and inspired individual with a passion for the era and a sturdy commitment to customer support. With over 3 years of revel in IT enterprise and Cyber Security solutions, I have established a sturdy foundation of technical competencies and know-how, particularly in network operations, troubleshooting, and Cyber Security solutions. </h3>
 
 - 🔭 I’m currently working on Code Byte Technology **Advance Threat Hunting**
 
