@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Zay Yar Aung</h1>
-<h3 align="center">I am a skilled and inspired individual with a passion for the era and a sturdy commitment to customer support. With over 3 years of revel in IT enterprise and Cyber Security solutions, I have established a sturdy foundation of technical competencies and know-how, particularly in network operations, troubleshooting, and Cyber Security solutions. </h3>
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
+  </a>
+</div>
+
+
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+
+
 
 - 🔭 I’m currently working on Code Byte Technology **Advance Threat Hunting**
 
